@@ -1,0 +1,36 @@
+// Place all the styles related to the Tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+body{
+  font-family: monospace;
+  font-size: 20px;
+
+}
+
+ul li {
+  list-style-type: none;
+  font-size: 30px;
+}
+
+h1 {
+  margin: 35px;
+  font-size: 40px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+  margin-left: 35px;
+}
+
+a:hover {
+  color: blue;
+}
+
+p {
+  font-size: 30px;
+  margin-left: 35px;
+}
+
